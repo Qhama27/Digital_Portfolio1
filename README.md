@@ -12,7 +12,7 @@
 </p>
 
 
-Welcome to my & **Digital Portfolio**!  
+Welcome to my **Digital Portfolio**!  
 I am **Qhama Dyushu** , a passionate **third year Diploma in Information and Communication Technology** student.  
 This portfolio was developed for the **Work Readiness Training Programme** as part of my **Term 4** assessment.  
 
