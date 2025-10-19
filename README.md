@@ -84,8 +84,8 @@ Through this journey, I’ve strengthened my ability to communicate professional
 <h2 align="center"> Workplace Etiquette  </h2>  
 
 ### Evidence  
-- Submission of the **Workplace Etiquette** .  
-- [ View My Workplace Etiquette Evidence](Workplace_Etiquette.PNG)  
+- Submission of the Workplace Etiquette.  
+- [ View ](Workplace_Etiquette.png)  
 
 ### 🪞 Reflection (STAR Technique)  
 **Situation**: During my Work Readiness Training, I completed a detailed module on workplace etiquette that tested my understanding of professional conduct.  
