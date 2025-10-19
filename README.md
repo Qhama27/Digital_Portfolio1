@@ -46,10 +46,10 @@ Each section follows the **STAR Technique (Situation, Task, Action, Result)** to
 - [📎 View My Interview Skills Evidence](Interview_Skills.PNG)  
 
 ### 🪞 Reflection (STAR Technique)  
-**Situation**: I was preparing to apply for internships and needed to master interview confidence.  
-**Task**: To improve how I present my experiences and answer structured questions.  
-**Action**: Studied STAR-based answering techniques, practiced mock questions, and sought feedback.  
-**Result**: Became more confident, professional, and structured in how I communicate during interviews.
+**Situation**: I participated in an Interview Skills module to strengthen my ability to perform confidently and professionally in job interviews.  
+**Task**: To understand interview purpose, learn effective answering methods, and improve how I present myself to employers.  
+**Action**: I completed a LinkedIn course covering topics such as the CAR (Context, Action, Result) method, researching companies beforehand, maintaining professionalism, and answering questions like “Tell me about yourself” and “What is your greatest weakness?”. 
+**Result**: I learned how to structure answers clearly using the CAR and STAR methods, highlight my strengths with honesty, and demonstrate preparation through company research skills that will help me excel in future interviews.
 
 ---
 
@@ -60,9 +60,9 @@ Each section follows the **STAR Technique (Situation, Task, Action, Result)** to
 - [📎 View My Mock Interview Evidence](Mock_Interview.PNG)  
 
 ### 🪞 Reflection (STAR Technique)  
-**Situation**: I participated in a simulated interview to evaluate my readiness for real-world interviews.  
+**Situation**: I participated in a simulated interview to evaluate my readiness for real world interviews.  
 **Task**: To demonstrate professionalism, active listening, and effective responses.  
-**Action**: Prepared research-based answers, dressed professionally, and practiced non-verbal cues.  
+**Action**: Prepared research based answers, dressed professionally, and practiced non-verbal cues.  
 **Result**: Enhanced my confidence, improved body language, and learned to stay calm under pressure.
 
 ---
@@ -74,10 +74,10 @@ Each section follows the **STAR Technique (Situation, Task, Action, Result)** to
 - [🔗 View My LinkedIn Profile](https://www.linkedin.com/in/qhama-dyushu-63b187234/)  
 
 ### 🪞 Reflection (STAR Technique)  
-**Situation**: I wanted to connect with professionals in the ICT field.  
-**Task**: To expand my professional presence and build valuable industry relationships.  
-**Action**: Optimized my LinkedIn profile, engaged in tech-related discussions, and followed mentors.  
-**Result**: Built a growing network, received valuable insights, and increased my visibility in the ICT community.
+**Situation**: As a student preparing for my ICT career, I wanted to connect with professionals to learn, grow, and explore opportunities. 
+**Task**: To build meaningful relationships, expand my professional network, and practice professional interactions.
+**Action**: I identified my networking goals and the type of professionals I wanted to connect with, optimized my LinkedIn profile, engaged in tech-related discussions, attended networking events, and followed mentors. I also made sure to be respectful, professional, and focused on genuine relationships, while avoiding common mistakes like being pushy or neglecting follow ups.
+**Result**: I developed a growing network, gained confidence in professional interactions, and learned how to build meaningful, respectful, and goal-oriented connections.
 
 ---
 
@@ -90,7 +90,7 @@ Each section follows the **STAR Technique (Situation, Task, Action, Result)** to
 ### 🪞 Reflection (STAR Technique)  
 **Situation**: During my Work Readiness Training, I completed a detailed module on workplace etiquette that tested my understanding of professional conduct.  
 **Task**: To learn how to behave appropriately and maintain professionalism in various workplace scenarios.  
-**Action**: I completed quizzes on topics such as handling rude emails, punctuality in meetings, managing confidential information, and appropriate phone use during work hours.  
+**Action**: I completed LinkedIn courses on topics such as handling rude emails, punctuality in meetings, managing confidential information, and appropriate phone use during work hours.  
 **Result**: I learned the importance of being respectful, arriving early for meetings, protecting confidential data, using personal devices responsibly, and communicating professionally all of which contribute to a positive and ethical work environment.
 
 
