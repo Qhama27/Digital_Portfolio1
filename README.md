@@ -59,7 +59,7 @@ Through this journey, I’ve strengthened my ability to communicate professional
 - Screenshot of my Mock Interview results.  
 - [View ](Mock_Interview.png)  
 
-### 🪞 Reflection (STAR Technique)  
+### Reflection (STAR Technique)  
 **Situation**: I participated in a simulated interview to evaluate my readiness for real world interviews.  
 **Task**: To demonstrate professionalism, active listening, and effective responses.  
 **Action**: Prepared research based answers, dressed professionally, and practiced non-verbal cues.  
