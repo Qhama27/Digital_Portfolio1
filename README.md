@@ -28,9 +28,12 @@ Through this journey, I’ve strengthened my ability to communicate professional
 ) 
 
 ### Reflection (STAR Technique)  
-**Situation**: I needed to enhance my communication skills for professional settings. During the Work Readiness Programme, I completed a training module focused on business communication skills essential for professional success. 
-**Task**: To understand the purpose of effective communication, the role of tone and formality, and how to maintain professionalism in all business interactions.  
+**Situation**: I needed to enhance my communication skills for professional settings. During the Work Readiness Programme, I completed a training module focused on business communication skills essential for professional success.
+
+**Task**: To understand the purpose of effective communication, the role of tone and formality, and how to maintain professionalism in all business interactions. 
+
 **Action**: Practiced email writing, created formal documents, participated in group discussions and learnt when to use formal language, and appropriate behavior in virtual meetings.
+
 **Result**: I learned that business communication is about delivering information clearly, respectfully, and professionally. I also gained insight into maintaining positive body language, using the right tone in emails, and applying formal language appropriately in workplace settings.
 
 ---
@@ -45,6 +48,7 @@ Through this journey, I’ve strengthened my ability to communicate professional
 **Situation**: I participated in an Interview Skills module to strengthen my ability to perform confidently and professionally in job interviews.  
 **Task**: To understand interview purpose, learn effective answering methods, and improve how I present myself to employers.
 **Action**: I completed a LinkedIn course covering topics such as the CAR (Context, Action, Result) method, researching companies beforehand, maintaining professionalism, and answering questions like “Tell me about yourself” and “What is your greatest weakness?”.
+
 **Result**: I learned how to structure answers clearly using the CAR and STAR methods, highlight my strengths with honesty, and demonstrate preparation through company research skills that will help me excel in future interviews.
 
 ---
