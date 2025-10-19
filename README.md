@@ -3,15 +3,15 @@
 <h2 align="center"> Qhama Dyushu  </h2>  
 ---
 
-<p align="leftt">
-  <img src="WhatsApp_Image.jpg" alt="WhatsApp_Image.jpg" width="150" style="border-radius: 50%;">
+<p align="center">
+  <img src="WhatsApp_Image.jpg" alt="WhatsApp_Image.jpg" width="160" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
 </p>
-<a href="https://www.linkedin.com/in/qhama-dyushu-63b187234/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/qhama-dyushu-63b187234/">
+    <img src="https://img.shields.io/badge/-Connect%20with%20me%20on%20LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
----
-<h2 align="center"> Introduction </h2> 
-
-</p>  
 
 Welcome to my & **Digital Portfolio**!  
 I am **Qhama Dyushu** , a passionate **third year Diploma in Information and Communication Technology** student.  
