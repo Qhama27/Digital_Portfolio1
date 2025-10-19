@@ -15,9 +15,10 @@
 <h2 align="center"> Introduction </h2> 
 
 </p>  
-Welcome to my **Digital Portfolio**!  
-I am **Qhama Dyushu**, a passionate **third-year Diploma in Information and Communication Technology** student.  
-This portfolio was developed for the **Work Readiness Training Programme (PRP370-1-2S)** as part of my **Project Presentation 3** assessment.  
+
+Welcome to my & **Digital Portfolio**!  
+I am **Qhama Dyushu** , a passionate **third-year Diploma in Information and Communication Technology** student.  
+This portfolio was developed for the **Work Readiness Training Programme** as part of my **Term 4** assessment.  
 
 Through this journey, I’ve strengthened my ability to communicate professionally, prepare for interviews, network effectively, and practice strong workplace etiquette — essential skills for a successful ICT career.  
 
