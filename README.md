@@ -91,7 +91,7 @@ Each section follows the **STAR Technique (Situation, Task, Action, Result)** to
 **Situation**: During my Work Readiness Training, I completed a detailed module on workplace etiquette that tested my understanding of professional conduct.  
 **Task**: To learn how to behave appropriately and maintain professionalism in various workplace scenarios.  
 **Action**: I completed quizzes on topics such as handling rude emails, punctuality in meetings, managing confidential information, and appropriate phone use during work hours.  
-**Result**: I learned the importance of being respectful, arriving early for meetings, protecting confidential data, using personal devices responsibly, and communicating professionally — all of which contribute to a positive and ethical work environment.
+**Result**: I learned the importance of being respectful, arriving early for meetings, protecting confidential data, using personal devices responsibly, and communicating professionally all of which contribute to a positive and ethical work environment.
 
 
 ---
