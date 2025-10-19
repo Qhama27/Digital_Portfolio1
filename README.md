@@ -32,10 +32,10 @@ Each section follows the **STAR Technique (Situation, Task, Action, Result)** to
 - [📎 View My Business Communication Evidence](Business_Comm.PNG)  
 
 ###  Reflection (STAR Technique)  
-**Situation**: I needed to enhance my communication skills for professional settings.  
-**Task**: To strengthen my writing style and clarity in verbal communication.  
-**Action**: Practiced email writing, created formal documents, and participated in group discussions.  
-**Result**: Improved clarity, tone, and structure in communication — essential for business success.
+**Situation**: I needed to enhance my communication skills for professional settings. During the Work Readiness Programme, I completed a training module focused on business communication skills essential for professional success. 
+**Task**: To understand the purpose of effective communication, the role of tone and formality, and how to maintain professionalism in all business interactions.  
+**Action**: Practiced email writing, created formal documents, participated in group discussions and learnt when to use formal language, and appropriate behavior in virtual meetings.
+**Result**: I learned that business communication is about delivering information clearly, respectfully, and professionally. I also gained insight into maintaining positive body language, using the right tone in emails, and applying formal language appropriately in workplace settings.
 
 ---
 
