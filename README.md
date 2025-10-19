@@ -116,5 +116,5 @@ I am proud of my progress and motivated to pursue opportunities in **UX/UI Desig
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Created%20with%20💻%20by-Qhama%20Dyushu-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Created%20by-Qhama%20Dyushu-blue?style=for-the-badge">
 </p>
