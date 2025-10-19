@@ -95,14 +95,6 @@ Through this journey, I’ve strengthened my ability to communicate professional
 
 ---
 
-<h2 align="center"> Portfolio Structure  </h2>  
-
- `artefacts/` – Includes evidence such as CV, interview materials, and communication examples.  
- `reflections/` – Contains all STAR-based reflections.  
- [LinkedIn Learning Reference: Preparing for Job Interviews](https://www.linkedin.com/learning/paths/prepare-for-your-job-interview)  
- `README.md` – This overview of my digital portfolio.  
-
----
 
 <h2 align="center"> Final Thoughts  </h2>  
 
