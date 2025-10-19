@@ -12,9 +12,7 @@
 </p>
 
 ---
-<p align="center">
-  
-### Introduction  
+<h2 align="center"> Introduction </h2> 
 
 </p>  
 Welcome to my **Digital Portfolio**!  
