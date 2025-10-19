@@ -79,7 +79,7 @@ Through this journey, I’ve strengthened my ability to communicate professional
 **Task**: To build meaningful relationships, expand my professional network, and practice professional interactions.
 
 **Action**: I identified my networking goals and the type of professionals I wanted to connect with, optimized my LinkedIn profile, engaged in tech-related discussions, attended networking events, and followed mentors. I also made sure to be respectful, professional, and focused on genuine relationships, while avoiding common mistakes like being pushy or neglecting follow ups.
-.
+
 **Result**: I developed a growing network, gained confidence in professional interactions, and learned how to build meaningful, respectful, and goal-oriented connections.
 
 ---
