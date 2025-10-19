@@ -31,7 +31,7 @@ Each section follows the **STAR Technique (Situation, Task, Action, Result)** to
 - Samples of formal emails, reports, and written communication.  
 - [📎 View My Business Communication Evidence](Business_Comm.PNG)  
 
-### 🪞 Reflection (STAR Technique)  
+###  Reflection (STAR Technique)  
 **Situation**: I needed to enhance my communication skills for professional settings.  
 **Task**: To strengthen my writing style and clarity in verbal communication.  
 **Action**: Practiced email writing, created formal documents, and participated in group discussions.  
@@ -39,9 +39,9 @@ Each section follows the **STAR Technique (Situation, Task, Action, Result)** to
 
 ---
 
-## 🎤 Interview Skills  
+<h2 align="center"> Interview Skills  </h2>  
 
-### 🧾 Evidence  
+### Evidence  
 - Screenshots and notes from interview preparation sessions and LinkedIn Learning.  
 - [📎 View My Interview Skills Evidence](Interview_Skills.PNG)  
 
@@ -53,9 +53,9 @@ Each section follows the **STAR Technique (Situation, Task, Action, Result)** to
 
 ---
 
-## 🎬 Mock Interview  
+<h2 align="center"> Mock Interview</h2>    
 
-### 🧾 Evidence  
+### Evidence  
 - Screenshot or recording from my mock interview.  
 - [📎 View My Mock Interview Evidence](Mock_Interview.PNG)  
 
@@ -67,9 +67,9 @@ Each section follows the **STAR Technique (Situation, Task, Action, Result)** to
 
 ---
 
-## 🌐 Professional Networking  
+<h2 align="center"> Professional Networking  </h2>  
 
-### 🧾 Evidence  
+### Evidence  
 - Updated LinkedIn profile and professional interactions.  
 - [🔗 View My LinkedIn Profile](https://www.linkedin.com/in/qhama-dyushu-63b187234/)  
 
@@ -81,9 +81,9 @@ Each section follows the **STAR Technique (Situation, Task, Action, Result)** to
 
 ---
 
-## 🧭 Workplace Etiquette  
+<h2 align="center"> Workplace Etiquette  </h2>  
 
-### 🧾 Evidence  
+### Evidence  
 - Documentation showing teamwork, punctuality, and professional behavior.  
 - [📎 View My Workplace Etiquette Evidence](Workplace_Etiquette.PNG)  
 
@@ -95,16 +95,16 @@ Each section follows the **STAR Technique (Situation, Task, Action, Result)** to
 
 ---
 
-## 🗂️ Portfolio Structure  
+<h2 align="center"> Portfolio Structure  </h2>  
 
-📁 `artefacts/` – Includes evidence such as CV, interview materials, and communication examples.  
-📁 `reflections/` – Contains all STAR-based reflections.  
-🔗 [LinkedIn Learning Reference: Preparing for Job Interviews](https://www.linkedin.com/learning/paths/prepare-for-your-job-interview)  
-📄 `README.md` – This overview of my digital portfolio.  
+ `artefacts/` – Includes evidence such as CV, interview materials, and communication examples.  
+ `reflections/` – Contains all STAR-based reflections.  
+ [LinkedIn Learning Reference: Preparing for Job Interviews](https://www.linkedin.com/learning/paths/prepare-for-your-job-interview)  
+ `README.md` – This overview of my digital portfolio.  
 
 ---
 
-## 💬 Final Thoughts  
+<h2 align="center"> Final Thoughts  </h2>  
 
 This portfolio captures my continuous growth throughout the **Work Readiness Programme**.  
 Through self-reflection, practical experience, and mentorship, I’ve developed into a more confident, goal-oriented, and workplace-ready individual.  
