@@ -25,9 +25,9 @@ Each section follows the **STAR Technique (Situation, Task, Action, Result)** to
 
 ---
 
-## 💼 Business Communication  
+<h2 align="center"> Business Communication  </h2>  
 
-### 🧾 Evidence  
+### Evidence  
 - Samples of formal emails, reports, and written communication.  
 - [📎 View My Business Communication Evidence](Business_Comm.PNG)  
 
