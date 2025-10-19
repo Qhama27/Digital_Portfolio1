@@ -65,8 +65,8 @@ Through this journey, I’ve strengthened my ability to communicate professional
 <h2 align="center"> Professional Networking  </h2>  
 
 ### Evidence  
-- Updated LinkedIn profile and professional interactions.  
-- [🔗 View My LinkedIn Profile](https://www.linkedin.com/in/qhama-dyushu-63b187234/)  
+- Professional Networking Last Submission.  
+- [ View Professional Networking](Professional_Networking.png)  
 
 ### 🪞 Reflection (STAR Technique)  
 **Situation**: As a student preparing for my ICT career, I wanted to connect with professionals to learn, grow, and explore opportunities. 
