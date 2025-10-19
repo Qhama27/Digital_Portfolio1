@@ -84,14 +84,15 @@ Each section follows the **STAR Technique (Situation, Task, Action, Result)** to
 <h2 align="center"> Workplace Etiquette  </h2>  
 
 ### Evidence  
-- Documentation showing teamwork, punctuality, and professional behavior.  
+- Completion of the **Workplace Etiquette** online training module.  
 - [📎 View My Workplace Etiquette Evidence](Workplace_Etiquette.PNG)  
 
 ### 🪞 Reflection (STAR Technique)  
-**Situation**: During my work at **KTOB Solutions** and university projects, I needed to maintain professional behavior.  
-**Task**: To apply correct etiquette, teamwork, and time management in every setting.  
-**Action**: Communicated respectfully, met deadlines, and collaborated effectively with teammates.  
-**Result**: Gained a strong sense of discipline, professionalism, and adaptability in workplace environments.
+**Situation**: During my Work Readiness Training, I completed a detailed module on workplace etiquette that tested my understanding of professional conduct.  
+**Task**: To learn how to behave appropriately and maintain professionalism in various workplace scenarios.  
+**Action**: I completed quizzes on topics such as handling rude emails, punctuality in meetings, managing confidential information, and appropriate phone use during work hours.  
+**Result**: I learned the importance of being respectful, arriving early for meetings, protecting confidential data, using personal devices responsibly, and communicating professionally — all of which contribute to a positive and ethical work environment.
+
 
 ---
 
