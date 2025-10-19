@@ -85,9 +85,9 @@ Through this journey, I’ve strengthened my ability to communicate professional
 
 ### Evidence  
 - Submission of the Workplace Etiquette.  
-- [ View ](Workplace_Etiquette.png)  
+- [ View ](Work_Etiquette.png)  
 
-### 🪞 Reflection (STAR Technique)  
+### Reflection (STAR Technique)  
 **Situation**: During my Work Readiness Training, I completed a detailed module on workplace etiquette that tested my understanding of professional conduct.  
 **Task**: To learn how to behave appropriately and maintain professionalism in various workplace scenarios.  
 **Action**: I completed LinkedIn courses on topics such as handling rude emails, punctuality in meetings, managing confidential information, and appropriate phone use during work hours.  
