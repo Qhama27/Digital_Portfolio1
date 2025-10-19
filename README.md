@@ -1,4 +1,4 @@
-<h2 align="center"> My Digital Portfolio </h2>   
+<h1 align="center"> My Digital Portfolio </h1>   
 
 <h2 align="center"> Qhama Dyushu  </h2>  
 ---
