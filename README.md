@@ -1,6 +1,6 @@
-# 🌟 My Digital Portfolio  
+#  My Digital Portfolio  
 
-## 👨‍💻 Qhama Dyushu  
+##  Qhama Dyushu  
 ---
 <p align="center">
   <img src="WhatsApp_Image.jpg" alt="Profile Photo" width="160" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
@@ -12,9 +12,9 @@
 </p>
 
 ---
-
-### 🎓 Introduction  
-
+<p align="center">
+### Introduction  
+</p>  
 Welcome to my **Digital Portfolio**!  
 I am **Qhama Dyushu**, a passionate **third-year Diploma in Information and Communication Technology** student.  
 This portfolio was developed for the **Work Readiness Training Programme (PRP370-1-2S)** as part of my **Project Presentation 3** assessment.  
