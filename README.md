@@ -1,104 +1,120 @@
-# My Digital Portfolio  
+# 🌟 My Digital Portfolio  
 
-# Qhama Dyushu   
+## 👨‍💻 Qhama Dyushu  
 ---
-<p align="leftt">
-  <img src="WhatsApp_Image.jpg" alt="WhatsApp_Image.jpg" width="150" style="border-radius: 50%;">
+<p align="center">
+  <img src="WhatsApp_Image.jpg" alt="Profile Photo" width="160" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
 </p>
-<a href="https://www.linkedin.com/in/qhama-dyushu-63b187234/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-Welcome to my digital portfolio. My name is **Qhama Dyushu**, a 3rd-year student pursuing a **Diploma in Information and Communication Technology**.  
-This portfolio has been developed as part of the **Work Readiness Training Programme** for *Project Presentation 3 (PRP370-1-2S)*.  
-It showcases my development through structured reflections and practical artefacts based on five key areas: **Business Communication, Interview Skills, Mock Interview, Professional Networking, and Workplace Etiquette.**  
-Each section applies the **STAR Technique** (Situation, Task, Action, Result) to highlight how I have built the confidence, professionalism, and skills to thrive in the workplace.
-
----
-
-## Business Communication  
-
-### Evidence  
-- Samples of formal emails, report writing, and communication exercises.  
-- [View My Business Communication Evidence](Business_Comm.PNG)  
-
-### Reflection (STAR Technique)  
-**Situation**: I needed to enhance my ability to communicate effectively in a professional setting.  
-**Task**: To improve both written and verbal communication suitable for workplace environments.  
-**Action**: Practiced writing structured emails, created professional documents, and participated in group discussions.  
-**Result**: Gained stronger communication confidence, clarity in expressing ideas, and improved document presentation skills essential for business contexts.
+<p align="center">
+  <a href="https://www.linkedin.com/in/qhama-dyushu-63b187234/">
+    <img src="https://img.shields.io/badge/-Connect%20with%20me%20on%20LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Interview Skills  
+### 🎓 Introduction  
 
-### Evidence  
-- Screenshots and notes from interview preparation and LinkedIn Learning sessions.  
-- [View My Interview Skills Evidence](Interview_Skills.PNG)  
+Welcome to my **Digital Portfolio**!  
+I am **Qhama Dyushu**, a passionate **third-year Diploma in Information and Communication Technology** student.  
+This portfolio was developed for the **Work Readiness Training Programme (PRP370-1-2S)** as part of my **Project Presentation 3** assessment.  
 
-### Reflection (STAR Technique)  
-**Situation**: I was preparing to apply for internships and realized I needed to strengthen my interview techniques.  
-**Task**: To learn how to answer interview questions confidently and professionally.  
-**Action**: Completed LinkedIn Learning modules, practiced common interview questions, and sought feedback from peers.  
-**Result**: Developed a confident communication style, learned how to apply the STAR method in interviews, and became more comfortable presenting myself to employers.
+Through this journey, I’ve strengthened my ability to communicate professionally, prepare for interviews, network effectively, and practice strong workplace etiquette — essential skills for a successful ICT career.  
+
+Each section follows the **STAR Technique (Situation, Task, Action, Result)** to reflect on how I’ve grown personally and professionally.  
 
 ---
 
-## Mock Interview  
+## 💼 Business Communication  
 
-### Evidence  
-- Screenshot or recording of my mock interview session.  
-- [View My Mock Interview Evidence](Mock_Interview.PNG)  
+### 🧾 Evidence  
+- Samples of formal emails, reports, and written communication.  
+- [📎 View My Business Communication Evidence](Business_Comm.PNG)  
 
-### Reflection (STAR Technique)  
-**Situation**: I participated in a simulated interview to test my readiness for real-world opportunities.  
-**Task**: To perform effectively under interview conditions and apply feedback constructively.  
-**Action**: Prepared responses, maintained professional etiquette, and reviewed the recording to identify improvement areas.  
-**Result**: Improved my confidence, body language, and ability to structure responses clearly using real interview standards.
-
----
-
-## Professional Networking  
-
-### Evidence  
-- LinkedIn profile and engagement screenshots.  
-- [View My LinkedIn Profile](https://www.linkedin.com/in/qhama-dyushu-63b187234/)  
-
-### Reflection (STAR Technique)  
-**Situation**: I wanted to expand my professional connections in the ICT industry.  
-**Task**: To build a strong online presence and engage with professionals and peers.  
-**Action**: Updated my LinkedIn profile, joined IT-related groups, and connected with industry professionals.  
-**Result**: Built a growing professional network, gained insight into job opportunities, and received positive feedback on my digital professionalism.
+### 🪞 Reflection (STAR Technique)  
+**Situation**: I needed to enhance my communication skills for professional settings.  
+**Task**: To strengthen my writing style and clarity in verbal communication.  
+**Action**: Practiced email writing, created formal documents, and participated in group discussions.  
+**Result**: Improved clarity, tone, and structure in communication — essential for business success.
 
 ---
 
-## Workplace Etiquette  
+## 🎤 Interview Skills  
 
-### Evidence  
-- Documentation of teamwork and professionalism from academic and work experiences.  
-- [View My Workplace Etiquette Evidence](Workplace_Etiquette.PNG)  
+### 🧾 Evidence  
+- Screenshots and notes from interview preparation sessions and LinkedIn Learning.  
+- [📎 View My Interview Skills Evidence](Interview_Skills.PNG)  
 
-### Reflection (STAR Technique)  
-**Situation**: During my work experience at KTOB Solutions and class projects, I needed to demonstrate professionalism in every interaction.  
-**Task**: To apply proper workplace conduct, teamwork, and time management.  
-**Action**: Maintained punctuality, respected colleagues, handled feedback positively, and contributed to a productive work environment.  
-**Result**: Strengthened my professional discipline and teamwork mindset, preparing me for future ICT roles that require collaboration and accountability.
-
----
-
-## Portfolio Structure  
-
-- `artefacts/` – Contains evidence such as CV, interview recordings, and communication samples.  
-- `reflections/` – Includes all detailed STAR reflections for each work readiness component.  
-- [My reflections are based on LinkedIn Learning courses and practical class experiences.](https://www.linkedin.com/learning/paths/prepare-for-your-job-interview)  
-- `README.md` – This main overview of my digital portfolio.
+### 🪞 Reflection (STAR Technique)  
+**Situation**: I was preparing to apply for internships and needed to master interview confidence.  
+**Task**: To improve how I present my experiences and answer structured questions.  
+**Action**: Studied STAR-based answering techniques, practiced mock questions, and sought feedback.  
+**Result**: Became more confident, professional, and structured in how I communicate during interviews.
 
 ---
 
-## Final Thoughts  
+## 🎬 Mock Interview  
 
-This digital portfolio represents my growth throughout the Work Readiness Programme.  
-Through communication practice, interview simulations, networking, and reflection, I have developed essential soft skills to complement my technical IT background.  
-These experiences have prepared me to approach professional environments with confidence, integrity, and adaptability.  
+### 🧾 Evidence  
+- Screenshot or recording from my mock interview.  
+- [📎 View My Mock Interview Evidence](Mock_Interview.PNG)  
 
-> _"Success is the sum of small efforts, repeated day in and day out." – Robert Collier_  
+### 🪞 Reflection (STAR Technique)  
+**Situation**: I participated in a simulated interview to evaluate my readiness for real-world interviews.  
+**Task**: To demonstrate professionalism, active listening, and effective responses.  
+**Action**: Prepared research-based answers, dressed professionally, and practiced non-verbal cues.  
+**Result**: Enhanced my confidence, improved body language, and learned to stay calm under pressure.
 
 ---
+
+## 🌐 Professional Networking  
+
+### 🧾 Evidence  
+- Updated LinkedIn profile and professional interactions.  
+- [🔗 View My LinkedIn Profile](https://www.linkedin.com/in/qhama-dyushu-63b187234/)  
+
+### 🪞 Reflection (STAR Technique)  
+**Situation**: I wanted to connect with professionals in the ICT field.  
+**Task**: To expand my professional presence and build valuable industry relationships.  
+**Action**: Optimized my LinkedIn profile, engaged in tech-related discussions, and followed mentors.  
+**Result**: Built a growing network, received valuable insights, and increased my visibility in the ICT community.
+
+---
+
+## 🧭 Workplace Etiquette  
+
+### 🧾 Evidence  
+- Documentation showing teamwork, punctuality, and professional behavior.  
+- [📎 View My Workplace Etiquette Evidence](Workplace_Etiquette.PNG)  
+
+### 🪞 Reflection (STAR Technique)  
+**Situation**: During my work at **KTOB Solutions** and university projects, I needed to maintain professional behavior.  
+**Task**: To apply correct etiquette, teamwork, and time management in every setting.  
+**Action**: Communicated respectfully, met deadlines, and collaborated effectively with teammates.  
+**Result**: Gained a strong sense of discipline, professionalism, and adaptability in workplace environments.
+
+---
+
+## 🗂️ Portfolio Structure  
+
+📁 `artefacts/` – Includes evidence such as CV, interview materials, and communication examples.  
+📁 `reflections/` – Contains all STAR-based reflections.  
+🔗 [LinkedIn Learning Reference: Preparing for Job Interviews](https://www.linkedin.com/learning/paths/prepare-for-your-job-interview)  
+📄 `README.md` – This overview of my digital portfolio.  
+
+---
+
+## 💬 Final Thoughts  
+
+This portfolio captures my continuous growth throughout the **Work Readiness Programme**.  
+Through self-reflection, practical experience, and mentorship, I’ve developed into a more confident, goal-oriented, and workplace-ready individual.  
+
+I am proud of my progress and motivated to pursue opportunities in **UX/UI Design** and **Software Development**, where I can apply both my creative and technical skills.  
+
+> _“Success is the sum of small efforts, repeated day in and day out.” – Robert Collier_  
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Created%20with%20💻%20by-Qhama%20Dyushu-blue?style=for-the-badge">
+</p>
