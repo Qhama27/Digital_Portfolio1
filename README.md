@@ -44,7 +44,7 @@ Through this journey, I’ve strengthened my ability to communicate professional
 ### Reflection (STAR Technique)  
 **Situation**: I participated in an Interview Skills module to strengthen my ability to perform confidently and professionally in job interviews.  
 **Task**: To understand interview purpose, learn effective answering methods, and improve how I present myself to employers.
-**Action**: I completed a LinkedIn course covering topics such as the CAR (Context, Action, Result) method, researching companies beforehand, maintaining professionalism, and answering questions like “Tell me about yourself” and “What is your greatest weakness?”. 
+**Action**: I completed a LinkedIn course covering topics such as the CAR (Context, Action, Result) method, researching companies beforehand, maintaining professionalism, and answering questions like “Tell me about yourself” and “What is your greatest weakness?”.
 **Result**: I learned how to structure answers clearly using the CAR and STAR methods, highlight my strengths with honesty, and demonstrate preparation through company research skills that will help me excel in future interviews.
 
 ---
