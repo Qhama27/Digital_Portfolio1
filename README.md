@@ -24,10 +24,10 @@ Through this journey, I’ve strengthened my ability to communicate professional
 
 ### Evidence  
 - Business Communication submission.  
-- [📎 View My Business Communication Evidence](Business_Communication.png
-)  
+- [📎 View My Business Communication Evidence](Business_Communication.png)
+) 
 
-###  Reflection (STAR Technique)  
+### Reflection (STAR Technique)  
 **Situation**: I needed to enhance my communication skills for professional settings. During the Work Readiness Programme, I completed a training module focused on business communication skills essential for professional success. 
 **Task**: To understand the purpose of effective communication, the role of tone and formality, and how to maintain professionalism in all business interactions.  
 **Action**: Practiced email writing, created formal documents, participated in group discussions and learnt when to use formal language, and appropriate behavior in virtual meetings.
