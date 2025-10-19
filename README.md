@@ -24,7 +24,7 @@ Through this journey, I’ve strengthened my ability to communicate professional
 
 ### Evidence  
 - Business Communication submission.  
-- [📎 View My Business Communication Evidence](Business_Communication.png)
+- [ View My Business Communication Evidence](Business_Communication.png)
 ) 
 
 ### Reflection (STAR Technique)  
@@ -42,7 +42,7 @@ Through this journey, I’ve strengthened my ability to communicate professional
 
 ### Evidence  
 - Results of my Interview Skills.  
-- View (Interview_Skills.png)  
+- [View ](Interview_Skills.png)
 
 ### Reflection (STAR Technique)  
 **Situation**: I participated in an Interview Skills module to strengthen my ability to perform confidently and professionally in job interviews.  
@@ -57,7 +57,7 @@ Through this journey, I’ve strengthened my ability to communicate professional
 
 ### Evidence  
 - Screenshot of my Mock Interview results.  
-- View (Mock_Interview.png)  
+- [View ](Mock_Interview.png)  
 
 ### 🪞 Reflection (STAR Technique)  
 **Situation**: I participated in a simulated interview to evaluate my readiness for real world interviews.  
@@ -84,8 +84,8 @@ Through this journey, I’ve strengthened my ability to communicate professional
 <h2 align="center"> Workplace Etiquette  </h2>  
 
 ### Evidence  
-- Completion of the **Workplace Etiquette** online training module.  
-- [📎 View My Workplace Etiquette Evidence](Workplace_Etiquette.PNG)  
+- Submission of the **Workplace Etiquette** .  
+- [ View My Workplace Etiquette Evidence](Workplace_Etiquette.PNG)  
 
 ### 🪞 Reflection (STAR Technique)  
 **Situation**: During my Work Readiness Training, I completed a detailed module on workplace etiquette that tested my understanding of professional conduct.  
