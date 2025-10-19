@@ -23,8 +23,9 @@ Through this journey, I’ve strengthened my ability to communicate professional
 <h2 align="center"> Business Communication  </h2>  
 
 ### Evidence  
-- Samples of formal emails, reports, and written communication.  
-- [📎 View My Business Communication Evidence](Business_Comm.PNG)  
+- Business Communication submission.  
+- [📎 View My Business Communication Evidence](Business_Communication.png
+)  
 
 ###  Reflection (STAR Technique)  
 **Situation**: I needed to enhance my communication skills for professional settings. During the Work Readiness Programme, I completed a training module focused on business communication skills essential for professional success. 
@@ -37,8 +38,8 @@ Through this journey, I’ve strengthened my ability to communicate professional
 <h2 align="center"> Interview Skills  </h2>  
 
 ### Evidence  
-- Screenshots and notes from interview preparation sessions and LinkedIn Learning.  
-- [📎 View My Interview Skills Evidence](Interview_Skills.PNG)  
+- Results of my Interview Skills.  
+- View (Interview_Skills.png)  
 
 ### 🪞 Reflection (STAR Technique)  
 **Situation**: I participated in an Interview Skills module to strengthen my ability to perform confidently and professionally in job interviews.  
@@ -51,8 +52,8 @@ Through this journey, I’ve strengthened my ability to communicate professional
 <h2 align="center"> Mock Interview</h2>    
 
 ### Evidence  
-- Screenshot or recording from my mock interview.  
-- [📎 View My Mock Interview Evidence](Mock_Interview.PNG)  
+- Screenshot of my Mock Interview results.  
+- View (Mock_Interview.png)  
 
 ### 🪞 Reflection (STAR Technique)  
 **Situation**: I participated in a simulated interview to evaluate my readiness for real world interviews.  
