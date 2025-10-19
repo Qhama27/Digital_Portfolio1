@@ -1,7 +1,6 @@
 <h1 align="center"> My Digital Portfolio </h1>   
 
 <h2 align="center"> Qhama Dyushu  </h2>  
----
 
 <p align="center">
   <img src="WhatsApp_Image.jpg" alt="WhatsApp_Image.jpg" width="160" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
