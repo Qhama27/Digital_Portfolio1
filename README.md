@@ -108,8 +108,14 @@ I am proud of my progress and motivated to pursue opportunities in **UX/UI Desig
 
 ---
 <p align="center">
-  <a href="#" onclick="alert('Thank you!'); return false;">
+  <a href="#thank-you">
     <img src="https://img.shields.io/badge/Created%20by-Qhama%20Dyushu-blue?style=for-the-badge" alt="Created by Qhama Dyushu">
   </a>
 </p>
+
+---
+
+<h2 id="thank-you" align="center">Thank You!</h2>
+<p align="center">😊 I appreciate you visiting my portfolio!</p>
+
 
