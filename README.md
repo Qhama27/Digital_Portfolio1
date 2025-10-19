@@ -107,7 +107,9 @@ I am proud of my progress and motivated to pursue opportunities in **UX/UI Desig
 > _“Success is the sum of small efforts, repeated day in and day out.” – Robert Collier_  
 
 ---
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Created%20by-Qhama%20Dyushu-blue?style=for-the-badge">
+  <a href="#" onclick="alert('Thank you!'); return false;">
+    <img src="https://img.shields.io/badge/Created%20by-Qhama%20Dyushu-blue?style=for-the-badge" alt="Created by Qhama Dyushu">
+  </a>
 </p>
+
